@@ -1,1 +1,2 @@
 # Connect-Four
+discord bot
