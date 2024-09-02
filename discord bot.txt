@@ -1,0 +1,8 @@
+discord bot
+
+access token 
+MTI1OTEyMDM4NDc1ODkwNjg4MA.GP54xs.-sXRWLIh_nKJuk4X6iyt_yTQTw-abXAf_TNWhM
+
+認証URL(bot 招待)
+https://discord.com/oauth2/authorize?client_id=1259120384758906880&permissions=0&integration_type=0&scope=bot
+
